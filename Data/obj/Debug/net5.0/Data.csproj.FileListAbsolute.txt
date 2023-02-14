@@ -1,0 +1,15 @@
+D:\Desarrollo\webapi\Data\bin\Debug\net5.0\Data.deps.json
+D:\Desarrollo\webapi\Data\bin\Debug\net5.0\Data.dll
+D:\Desarrollo\webapi\Data\bin\Debug\net5.0\Data.pdb
+D:\Desarrollo\webapi\Data\bin\Debug\net5.0\Domain.dll
+D:\Desarrollo\webapi\Data\bin\Debug\net5.0\Domain.pdb
+D:\Desarrollo\webapi\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+D:\Desarrollo\webapi\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\webapi\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+D:\Desarrollo\webapi\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+D:\Desarrollo\webapi\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+D:\Desarrollo\webapi\Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+D:\Desarrollo\webapi\Data\obj\Debug\net5.0\Data.dll
+D:\Desarrollo\webapi\Data\obj\Debug\net5.0\refint\Data.dll
+D:\Desarrollo\webapi\Data\obj\Debug\net5.0\Data.pdb
+D:\Desarrollo\webapi\Data\obj\Debug\net5.0\ref\Data.dll
